@@ -1,0 +1,19 @@
+{
+  "title": "India Historical Copper Prices (2004-2026, INR per kg)",
+  "id": "vinayedula/india-historical-copper-prices-inr-per-kg",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "finance",
+    "commodities",
+    "india",
+    "copper",
+    "time series analysis",
+    "economics"
+  ],
+  "subtitle": "Daily, monthly, quarterly and yearly copper rates in India in ₹/kg (2004–2026), sourced from CopperPrice.in",
+  "description": "Clean historical copper reference prices in India expressed in Indian Rupees per kilogram (₹/kg), covering 2004–2026 across yearly, quarterly, monthly, and recent daily OHLC intervals.\n\nSource & Live Rates: https://copperprice.in/\nInteractive Charts: https://copperprice.in/copper-price-chart/\nFull History & Methodology: https://copperprice.in/copper-price-data/"
+}
